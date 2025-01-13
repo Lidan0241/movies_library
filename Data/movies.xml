@@ -1,0 +1,363 @@
+<?xml version='1.0' encoding='utf-8'?>
+<MovieLibrary>
+  <Movie>
+    <Title>Inception</Title>
+    <Director>Christopher Nolan</Director>
+    <Year>2010</Year>
+    <Genre>Sci-Fi</Genre>
+  </Movie>
+  <Movie>
+    <Title>The Matrix</Title>
+    <Director>The Wachowskis</Director>
+    <Year>1999</Year>
+    <Genre>Sci-Fi</Genre>
+  </Movie>
+  <Movie>
+    <Title>Interstellar</Title>
+    <Director>Christopher Nolan</Director>
+    <Year>2014</Year>
+    <Genre>Sci-Fi</Genre>
+  </Movie>
+  <Movie>
+    <Title>The Godfather</Title>
+    <Director>Francis Ford Coppola</Director>
+    <Year>1972</Year>
+    <Genre>Crime</Genre>
+  </Movie>
+  <Movie>
+    <Title>Pulp Fiction</Title>
+    <Director>Quentin Tarantino</Director>
+    <Year>1994</Year>
+    <Genre>Crime</Genre>
+  </Movie>
+  <Movie>
+    <Title>The Dark Knight</Title>
+    <Director>Christopher Nolan</Director>
+    <Year>2008</Year>
+    <Genre>Action</Genre>
+  </Movie>
+  <Movie>
+    <Title>Fight Club</Title>
+    <Director>David Fincher</Director>
+    <Year>1999</Year>
+    <Genre>Drama</Genre>
+  </Movie>
+  <Movie>
+    <Title>Forrest Gump</Title>
+    <Director>Robert Zemeckis</Director>
+    <Year>1994</Year>
+    <Genre>Drama</Genre>
+  </Movie>
+  <Movie>
+    <Title>The Shawshank Redemption</Title>
+    <Director>Frank Darabont</Director>
+    <Year>1994</Year>
+    <Genre>Drama</Genre>
+  </Movie>
+  <Movie>
+    <Title>Gladiator</Title>
+    <Director>Ridley Scott</Director>
+    <Year>2000</Year>
+    <Genre>Action</Genre>
+  </Movie>
+  <Movie>
+    <Title>Titanic</Title>
+    <Director>James Cameron</Director>
+    <Year>1997</Year>
+    <Genre>Romance</Genre>
+  </Movie>
+  <Movie>
+    <Title>Avatar</Title>
+    <Director>James Cameron</Director>
+    <Year>2009</Year>
+    <Genre>Sci-Fi</Genre>
+  </Movie>
+  <Movie>
+    <Title>The Lord of the Rings: The Fellowship of the Ring</Title>
+    <Director>Peter Jackson</Director>
+    <Year>2001</Year>
+    <Genre>Fantasy</Genre>
+  </Movie>
+  <Movie>
+    <Title>Star Wars</Title>
+    <Director>George Lucas</Director>
+    <Year>1977</Year>
+    <Genre>Sci-Fi</Genre>
+  </Movie>
+  <Movie>
+    <Title>Jurassic Park</Title>
+    <Director>Steven Spielberg</Director>
+    <Year>1993</Year>
+    <Genre>Adventure</Genre>
+  </Movie>
+  <Movie>
+    <Title>The Lion King</Title>
+    <Director>Roger Allers</Director>
+    <Year>1994</Year>
+    <Genre>Animation</Genre>
+  </Movie>
+  <Movie>
+    <Title>The Avengers</Title>
+    <Director>Joss Whedon</Director>
+    <Year>2012</Year>
+    <Genre>Action</Genre>
+  </Movie>
+  <Movie>
+    <Title>Harry Potter and the Sorcerer's Stone</Title>
+    <Director>Chris Columbus</Director>
+    <Year>2001</Year>
+    <Genre>Fantasy</Genre>
+  </Movie>
+  <Movie>
+    <Title>The Silence of the Lambs</Title>
+    <Director>Jonathan Demme</Director>
+    <Year>1991</Year>
+    <Genre>Thriller</Genre>
+  </Movie>
+  <Movie>
+    <Title>Braveheart</Title>
+    <Director>Mel Gibson</Director>
+    <Year>1995</Year>
+    <Genre>Drama</Genre>
+  </Movie>
+  <Movie>
+    <Title>Django Unchained</Title>
+    <Director>Quentin Tarantino</Director>
+    <Year>2012</Year>
+    <Genre>Western</Genre>
+  </Movie>
+  <Movie>
+    <Title>Schindler's List</Title>
+    <Director>Steven Spielberg</Director>
+    <Year>1993</Year>
+    <Genre>Drama</Genre>
+  </Movie>
+  <Movie>
+    <Title>The Departed</Title>
+    <Director>Martin Scorsese</Director>
+    <Year>2006</Year>
+    <Genre>Crime</Genre>
+  </Movie>
+  <Movie>
+    <Title>The Prestige</Title>
+    <Director>Christopher Nolan</Director>
+    <Year>2006</Year>
+    <Genre>Mystery</Genre>
+  </Movie>
+  <Movie>
+    <Title>Goodfellas</Title>
+    <Director>Martin Scorsese</Director>
+    <Year>1990</Year>
+    <Genre>Crime</Genre>
+  </Movie>
+  <Movie>
+    <Title>The Green Mile</Title>
+    <Director>Frank Darabont</Director>
+    <Year>1999</Year>
+    <Genre>Drama</Genre>
+  </Movie>
+  <Movie>
+    <Title>Saving Private Ryan</Title>
+    <Director>Steven Spielberg</Director>
+    <Year>1998</Year>
+    <Genre>War</Genre>
+  </Movie>
+  <Movie>
+    <Title>Black Panther</Title>
+    <Director>Ryan Coogler</Director>
+    <Year>2018</Year>
+    <Genre>Action</Genre>
+  </Movie>
+  <Movie>
+    <Title>Wonder Woman</Title>
+    <Director>Patty Jenkins</Director>
+    <Year>2017</Year>
+    <Genre>Action</Genre>
+  </Movie>
+  <Movie>
+    <Title>Avengers: Endgame</Title>
+    <Director>Anthony and Joe Russo</Director>
+    <Year>2019</Year>
+    <Genre>Action</Genre>
+  </Movie>
+  <Movie>
+    <Title>Spider-Man: Into the Spider-Verse</Title>
+    <Director>Bob Persichetti</Director>
+    <Year>2018</Year>
+    <Genre>Animation</Genre>
+  </Movie>
+  <Movie>
+    <Title>Coco</Title>
+    <Director>Lee Unkrich</Director>
+    <Year>2017</Year>
+    <Genre>Animation</Genre>
+  </Movie>
+  <Movie>
+    <Title>Frozen</Title>
+    <Director>Chris Buck</Director>
+    <Year>2013</Year>
+    <Genre>Animation</Genre>
+  </Movie>
+  <Movie>
+    <Title>Inside Out</Title>
+    <Director>Pete Docter</Director>
+    <Year>2015</Year>
+    <Genre>Animation</Genre>
+  </Movie>
+  <Movie>
+    <Title>Up</Title>
+    <Director>Pete Docter</Director>
+    <Year>2009</Year>
+    <Genre>Animation</Genre>
+  </Movie>
+  <Movie>
+    <Title>The Incredibles</Title>
+    <Director>Brad Bird</Director>
+    <Year>2004</Year>
+    <Genre>Animation</Genre>
+  </Movie>
+  <Movie>
+    <Title>Ratatouille</Title>
+    <Director>Brad Bird</Director>
+    <Year>2007</Year>
+    <Genre>Animation</Genre>
+  </Movie>
+  <Movie>
+    <Title>Finding Nemo</Title>
+    <Director>Andrew Stanton</Director>
+    <Year>2003</Year>
+    <Genre>Animation</Genre>
+  </Movie>
+  <Movie>
+    <Title>Toy Story</Title>
+    <Director>John Lasseter</Director>
+    <Year>1995</Year>
+    <Genre>Animation</Genre>
+  </Movie>
+  <Movie>
+    <Title>Monsters, Inc.</Title>
+    <Director>Pete Docter</Director>
+    <Year>2001</Year>
+    <Genre>Animation</Genre>
+  </Movie>
+  <Movie>
+    <Title>The Wolf of Wall Street</Title>
+    <Director>Martin Scorsese</Director>
+    <Year>2013</Year>
+    <Genre>Drama</Genre>
+  </Movie>
+  <Movie>
+    <Title>La La Land</Title>
+    <Director>Damien Chazelle</Director>
+    <Year>2016</Year>
+    <Genre>Musical</Genre>
+  </Movie>
+  <Movie>
+    <Title>Whiplash</Title>
+    <Director>Damien Chazelle</Director>
+    <Year>2014</Year>
+    <Genre>Drama</Genre>
+  </Movie>
+  <Movie>
+    <Title>Mad Max: Fury Road</Title>
+    <Director>George Miller</Director>
+    <Year>2015</Year>
+    <Genre>Action</Genre>
+  </Movie>
+  <Movie>
+    <Title>Logan</Title>
+    <Director>James Mangold</Director>
+    <Year>2017</Year>
+    <Genre>Action</Genre>
+  </Movie>
+  <Movie>
+    <Title>Deadpool</Title>
+    <Director>Tim Miller</Director>
+    <Year>2016</Year>
+    <Genre>Action</Genre>
+  </Movie>
+  <Movie>
+    <Title>The Social Network</Title>
+    <Director>David Fincher</Director>
+    <Year>2010</Year>
+    <Genre>Drama</Genre>
+  </Movie>
+  <Movie>
+    <Title>Get Out</Title>
+    <Director>Jordan Peele</Director>
+    <Year>2017</Year>
+    <Genre>Horror</Genre>
+  </Movie>
+  <Movie>
+    <Title>A Quiet Place</Title>
+    <Director>John Krasinski</Director>
+    <Year>2018</Year>
+    <Genre>Horror</Genre>
+  </Movie>
+  <Movie>
+    <Title>Her</Title>
+    <Director>Spike Jonze</Director>
+    <Year>2013</Year>
+    <Genre>Romance</Genre>
+  </Movie>
+  <Movie>
+    <Title>Blade Runner 2049</Title>
+    <Director>Denis Villeneuve</Director>
+    <Year>2017</Year>
+    <Genre>Sci-Fi</Genre>
+  </Movie>
+  <Movie>
+    <Title>The Irishman</Title>
+    <Director>Martin Scorsese</Director>
+    <Year>2019</Year>
+    <Genre>Crime</Genre>
+  </Movie>
+  <Movie>
+    <Title>The Revenant</Title>
+    <Director>Alejandro G. Iñárritu</Director>
+    <Year>2015</Year>
+    <Genre>Drama</Genre>
+  </Movie>
+  <Movie>
+    <Title>12 Years a Slave</Title>
+    <Director>Steve McQueen</Director>
+    <Year>2013</Year>
+    <Genre>Drama</Genre>
+  </Movie>
+  <Movie>
+    <Title>Argo</Title>
+    <Director>Ben Affleck</Director>
+    <Year>2012</Year>
+    <Genre>Thriller</Genre>
+  </Movie>
+  <Movie>
+    <Title>Slumdog Millionaire</Title>
+    <Director>Danny Boyle</Director>
+    <Year>2008</Year>
+    <Genre>Drama</Genre>
+  </Movie>
+  <Movie>
+    <Title>The King's Speech</Title>
+    <Director>Tom Hooper</Director>
+    <Year>2010</Year>
+    <Genre>Drama</Genre>
+  </Movie>
+  <Movie>
+    <Title>The Pianist</Title>
+    <Director>Roman Polanski</Director>
+    <Year>2002</Year>
+    <Genre>Drama</Genre>
+  </Movie>
+  <Movie>
+    <Title>Amélie</Title>
+    <Director>Jean-Pierre Jeunet</Director>
+    <Year>2001</Year>
+    <Genre>Comedy</Genre>
+  </Movie>
+  <Movie>
+    <Title>The Grand Budapest Hotel</Title>
+    <Director>Wes Anderson</Director>
+    <Year>2014</Year>
+    <Genre>Comedy</Genre>
+  </Movie>
+</MovieLibrary>

@@ -1,0 +1,26 @@
+{
+  "welcome": "æ¬¢è¿ä½¿ç¨çµå½±åºï¼",
+  "helpPrompt": "è¾å¥ 'help' æ¥çå¯ç¨å½ä»¤åè¡¨ã",
+  "enterMovieDetails": "è¯·è¾å¥çµå½±è¯¦æï¼",
+  "enterTitle": "æ é¢ï¼",
+  "enterDirector": "å¯¼æ¼ï¼",
+  "enterYear": "å¹´ä»½ï¼",
+  "enterGenre": "ç±»å«ï¼",
+  "invalidYear": "å¹´ä»½æ ¼å¼æ æã",
+  "movieAddedSuccess": "çµå½±æ·»å æåï¼",
+  "noMoviesFound": "åºä¸­æ²¡æçµå½±ã",
+  "noMatchingMovies": "æªæ¾å°å¹éççµå½±ã",
+  "unknownCommand": "æªç¥å½ä»¤ãè¾å¥ 'help' æ¥çå½ä»¤åè¡¨ã",
+  "availableCommands": "å¯ç¨å½ä»¤ï¼",
+  "helpAdd": "- add: æ·»å æ°çµå½±å°åºä¸­",
+  "helpSearch": "- search <å³é®å­>: ææ é¢ãå¯¼æ¼æç±»å«æç´¢çµå½±",
+  "helpList": "- list: æ¾ç¤ºåºä¸­ææçµå½±",
+  "helpHelp": "- help: æ¾ç¤ºæ­¤å¸®å©ä¿¡æ¯",
+  "helpExit": "- exit: éåºç¨åº",
+  "helpLanguage": "- language <ä»£ç >: ä¿®æ¹å½åè¯­è¨ (en/zh)",
+  "helpWriteText": "- writetext: 写入文本到文件",
+  "helpReadStructured": "- readstructured: 从文件读取结构化数据",
+  "helpWriteStructured": "- writestructured: 写入结构化数据到文件",
+  "languageChanged": "è¯­è¨å·²æåæ´æ¹ä¸º{0}",
+  "invalidLanguage": "æ æçè¯­è¨ä»£ç ãå¯ç¨è¯­è¨ï¼en, zh"
+}

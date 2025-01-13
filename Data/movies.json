@@ -1,0 +1,362 @@
+[
+    {
+        "Title":"Inception",
+        "Director":"Christopher Nolan",
+        "Year":2010,
+        "Genre":"Sci-Fi"
+    },
+    {
+        "Title":"The Matrix",
+        "Director":"The Wachowskis",
+        "Year":1999,
+        "Genre":"Sci-Fi"
+    },
+    {
+        "Title":"Interstellar",
+        "Director":"Christopher Nolan",
+        "Year":2014,
+        "Genre":"Sci-Fi"
+    },
+    {
+        "Title":"The Godfather",
+        "Director":"Francis Ford Coppola",
+        "Year":1972,
+        "Genre":"Crime"
+    },
+    {
+        "Title":"Pulp Fiction",
+        "Director":"Quentin Tarantino",
+        "Year":1994,
+        "Genre":"Crime"
+    },
+    {
+        "Title":"The Dark Knight",
+        "Director":"Christopher Nolan",
+        "Year":2008,
+        "Genre":"Action"
+    },
+    {
+        "Title":"Fight Club",
+        "Director":"David Fincher",
+        "Year":1999,
+        "Genre":"Drama"
+    },
+    {
+        "Title":"Forrest Gump",
+        "Director":"Robert Zemeckis",
+        "Year":1994,
+        "Genre":"Drama"
+    },
+    {
+        "Title":"The Shawshank Redemption",
+        "Director":"Frank Darabont",
+        "Year":1994,
+        "Genre":"Drama"
+    },
+    {
+        "Title":"Gladiator",
+        "Director":"Ridley Scott",
+        "Year":2000,
+        "Genre":"Action"
+    },
+    {
+        "Title":"Titanic",
+        "Director":"James Cameron",
+        "Year":1997,
+        "Genre":"Romance"
+    },
+    {
+        "Title":"Avatar",
+        "Director":"James Cameron",
+        "Year":2009,
+        "Genre":"Sci-Fi"
+    },
+    {
+        "Title":"The Lord of the Rings: The Fellowship of the Ring",
+        "Director":"Peter Jackson",
+        "Year":2001,
+        "Genre":"Fantasy"
+    },
+    {
+        "Title":"Star Wars",
+        "Director":"George Lucas",
+        "Year":1977,
+        "Genre":"Sci-Fi"
+    },
+    {
+        "Title":"Jurassic Park",
+        "Director":"Steven Spielberg",
+        "Year":1993,
+        "Genre":"Adventure"
+    },
+    {
+        "Title":"The Lion King",
+        "Director":"Roger Allers",
+        "Year":1994,
+        "Genre":"Animation"
+    },
+    {
+        "Title":"The Avengers",
+        "Director":"Joss Whedon",
+        "Year":2012,
+        "Genre":"Action"
+    },
+    {
+        "Title":"Harry Potter and the Sorcerer's Stone",
+        "Director":"Chris Columbus",
+        "Year":2001,
+        "Genre":"Fantasy"
+    },
+    {
+        "Title":"The Silence of the Lambs",
+        "Director":"Jonathan Demme",
+        "Year":1991,
+        "Genre":"Thriller"
+    },
+    {
+        "Title":"Braveheart",
+        "Director":"Mel Gibson",
+        "Year":1995,
+        "Genre":"Drama"
+    },
+    {
+        "Title":"Django Unchained",
+        "Director":"Quentin Tarantino",
+        "Year":2012,
+        "Genre":"Western"
+    },
+    {
+        "Title":"Schindler's List",
+        "Director":"Steven Spielberg",
+        "Year":1993,
+        "Genre":"Drama"
+    },
+    {
+        "Title":"The Departed",
+        "Director":"Martin Scorsese",
+        "Year":2006,
+        "Genre":"Crime"
+    },
+    {
+        "Title":"The Prestige",
+        "Director":"Christopher Nolan",
+        "Year":2006,
+        "Genre":"Mystery"
+    },
+    {
+        "Title":"Goodfellas",
+        "Director":"Martin Scorsese",
+        "Year":1990,
+        "Genre":"Crime"
+    },
+    {
+        "Title":"The Green Mile",
+        "Director":"Frank Darabont",
+        "Year":1999,
+        "Genre":"Drama"
+    },
+    {
+        "Title":"Saving Private Ryan",
+        "Director":"Steven Spielberg",
+        "Year":1998,
+        "Genre":"War"
+    },
+    {
+        "Title":"Black Panther",
+        "Director":"Ryan Coogler",
+        "Year":2018,
+        "Genre":"Action"
+    },
+    {
+        "Title":"Wonder Woman",
+        "Director":"Patty Jenkins",
+        "Year":2017,
+        "Genre":"Action"
+    },
+    {
+        "Title":"Avengers: Endgame",
+        "Director":"Anthony and Joe Russo",
+        "Year":2019,
+        "Genre":"Action"
+    },
+    {
+        "Title":"Spider-Man: Into the Spider-Verse",
+        "Director":"Bob Persichetti",
+        "Year":2018,
+        "Genre":"Animation"
+    },
+    {
+        "Title":"Coco",
+        "Director":"Lee Unkrich",
+        "Year":2017,
+        "Genre":"Animation"
+    },
+    {
+        "Title":"Frozen",
+        "Director":"Chris Buck",
+        "Year":2013,
+        "Genre":"Animation"
+    },
+    {
+        "Title":"Inside Out",
+        "Director":"Pete Docter",
+        "Year":2015,
+        "Genre":"Animation"
+    },
+    {
+        "Title":"Up",
+        "Director":"Pete Docter",
+        "Year":2009,
+        "Genre":"Animation"
+    },
+    {
+        "Title":"The Incredibles",
+        "Director":"Brad Bird",
+        "Year":2004,
+        "Genre":"Animation"
+    },
+    {
+        "Title":"Ratatouille",
+        "Director":"Brad Bird",
+        "Year":2007,
+        "Genre":"Animation"
+    },
+    {
+        "Title":"Finding Nemo",
+        "Director":"Andrew Stanton",
+        "Year":2003,
+        "Genre":"Animation"
+    },
+    {
+        "Title":"Toy Story",
+        "Director":"John Lasseter",
+        "Year":1995,
+        "Genre":"Animation"
+    },
+    {
+        "Title":"Monsters, Inc.",
+        "Director":"Pete Docter",
+        "Year":2001,
+        "Genre":"Animation"
+    },
+    {
+        "Title":"The Wolf of Wall Street",
+        "Director":"Martin Scorsese",
+        "Year":2013,
+        "Genre":"Drama"
+    },
+    {
+        "Title":"La La Land",
+        "Director":"Damien Chazelle",
+        "Year":2016,
+        "Genre":"Musical"
+    },
+    {
+        "Title":"Whiplash",
+        "Director":"Damien Chazelle",
+        "Year":2014,
+        "Genre":"Drama"
+    },
+    {
+        "Title":"Mad Max: Fury Road",
+        "Director":"George Miller",
+        "Year":2015,
+        "Genre":"Action"
+    },
+    {
+        "Title":"Logan",
+        "Director":"James Mangold",
+        "Year":2017,
+        "Genre":"Action"
+    },
+    {
+        "Title":"Deadpool",
+        "Director":"Tim Miller",
+        "Year":2016,
+        "Genre":"Action"
+    },
+    {
+        "Title":"The Social Network",
+        "Director":"David Fincher",
+        "Year":2010,
+        "Genre":"Drama"
+    },
+    {
+        "Title":"Get Out",
+        "Director":"Jordan Peele",
+        "Year":2017,
+        "Genre":"Horror"
+    },
+    {
+        "Title":"A Quiet Place",
+        "Director":"John Krasinski",
+        "Year":2018,
+        "Genre":"Horror"
+    },
+    {
+        "Title":"Her",
+        "Director":"Spike Jonze",
+        "Year":2013,
+        "Genre":"Romance"
+    },
+    {
+        "Title":"Blade Runner 2049",
+        "Director":"Denis Villeneuve",
+        "Year":2017,
+        "Genre":"Sci-Fi"
+    },
+    {
+        "Title":"The Irishman",
+        "Director":"Martin Scorsese",
+        "Year":2019,
+        "Genre":"Crime"
+    },
+    {
+        "Title":"The Revenant",
+        "Director":"Alejandro G. I\u00f1\u00e1rritu",
+        "Year":2015,
+        "Genre":"Drama"
+    },
+    {
+        "Title":"12 Years a Slave",
+        "Director":"Steve McQueen",
+        "Year":2013,
+        "Genre":"Drama"
+    },
+    {
+        "Title":"Argo",
+        "Director":"Ben Affleck",
+        "Year":2012,
+        "Genre":"Thriller"
+    },
+    {
+        "Title":"Slumdog Millionaire",
+        "Director":"Danny Boyle",
+        "Year":2008,
+        "Genre":"Drama"
+    },
+    {
+        "Title":"The King's Speech",
+        "Director":"Tom Hooper",
+        "Year":2010,
+        "Genre":"Drama"
+    },
+    {
+        "Title":"The Pianist",
+        "Director":"Roman Polanski",
+        "Year":2002,
+        "Genre":"Drama"
+    },
+    {
+        "Title":"Am\u00e9lie",
+        "Director":"Jean-Pierre Jeunet",
+        "Year":2001,
+        "Genre":"Comedy"
+    },
+    {
+        "Title":"The Grand Budapest Hotel",
+        "Director":"Wes Anderson",
+        "Year":2014,
+        "Genre":"Comedy"
+    }
+]
